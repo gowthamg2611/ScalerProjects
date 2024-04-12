@@ -10,6 +10,9 @@ public class Main {
         System.out.println("Interest Calculator");
         InterestCalculator.calculate();
 
+        System.out.println("SIP Calculator");
+        SIPCalculator.calculate();
+
         System.out.println("CI Calculator");
         CICalculator.calculate();
 
